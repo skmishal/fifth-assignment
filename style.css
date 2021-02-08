@@ -1,0 +1,26 @@
+#alert{  
+    display: none;
+}
+.mealDiv{
+    background-color: rgba(224, 237, 240, 0.527);
+    width: 300px;
+    height: auto;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 15px;
+}
+.mealDiv img{
+    width: 200px;
+    border-radius: 10px;
+}
+
+#meal-details{
+    border-radius: 15px;
+    background-color: rgba(209, 225, 235, 0.288);
+}
+#ingredients{
+    display: none;
+}
+#meal-section{
+    display: block;
+}
